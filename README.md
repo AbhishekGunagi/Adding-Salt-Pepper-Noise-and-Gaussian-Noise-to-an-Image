@@ -7,3 +7,4 @@ Run the script to observe the effects of different types of noise on images.
 Requirements Scilab: Ensure you have Scilab installed on your system to execute the script. Project Structure image_noise.sce - The Scilab script for adding noise to images.
 
 Applications This script is useful for testing image processing algorithms by simulating noisy data. License This project is licensed under the MIT License.
+ 
